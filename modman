@@ -1,0 +1,5 @@
+app/code/local/Creare/DynamicSitemap                          app/code/local/Creare/DynamicSitemap                         
+app/design/frontend/default/default/layout/dynamicsitemap.xml app/design/frontend/default/default/layout/dynamicsitemap.xml
+app/design/frontend/default/default/template/dynamicsitemap   app/design/frontend/default/default/template/dynamicsitemap  
+app/etc/modules/Creare_DynamicSitemap.xml                     app/etc/modules/Creare_DynamicSitemap.xml                    
+skin/frontend/default/default/css/dynamicsitemap.css          skin/frontend/default/default/css/dynamicsitemap.css         
